@@ -22,5 +22,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashishjairamm&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/Ashishjairamm/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+## snake eating my contribution graph
+![snake gif](https://github.com/Ashishjairamm/Ashishjairamm/blob/output/github-contribution-grid-snake.gif)
+
 
