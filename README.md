@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 B.Tech in Cyber Security and IoT covers network security, cryptography, ethical hacking, and IoT system design.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>📫 How to reach me: meghnasrivastava2000@gmail.com
+🔭 B.Tech in Cyber Security and IoT covers network security, cryptography, ethical hacking, and IoT system design.<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>📫 How to reach me: 2019akc@gmail.com
 
 
 ## 🌐 Socials:
