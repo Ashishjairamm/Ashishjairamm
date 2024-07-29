@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 B.Tech program focusing on Cyber Security and the Internet of Things (IoT), covering essential topics such as network security, cryptography, ethical hacking, and IoT system design.<br>👯Collaborative projects can help you develop essential soft skills, such as communication, teamwork, and leadership, which are valuable in any career.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
