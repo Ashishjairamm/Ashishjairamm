@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭I'm pursuing a degree in college.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
+📫 How to reach me: 2019akc@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_jairam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ aashish-jairamm) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/a.aashish) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://play.google.com/store/apps/details?id=io.codepen.android.sourcecodes) 
@@ -19,14 +19,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashishjairamm&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/Ashishjairamm/Ashishjairamm/blob/output/github-contribution-grid-snake.gif)
 
 
----
 [![](https://visitcount.itsvg.in/api?id=Ashishjairamm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/a.aashish  jairamm) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
