@@ -16,7 +16,7 @@
   
   # 💫 About Me:
 🔭I'm pursuing a degree in college.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
-📫 How to reach me: 2019akc@gmail.com
+<br>📫 How to reach me: 2019akc@gmail.com..
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_jairam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ aashish) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/a.aashish) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://play.google.com/store/apps/details?id=io.codepen.android.sourcecodes) 
