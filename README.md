@@ -15,7 +15,7 @@
 
   
   # 💫 About Me:
-🔭I'm pursuing a degree in college.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
+🔭I’m a Student studying in Sri Ramachandra Engineering and Technology(SRET)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
 <br>📫 How to reach me: 2019akc@gmail.com..
 
 ## 🌐 Socials:
