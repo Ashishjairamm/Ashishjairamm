@@ -15,7 +15,8 @@
 
   
   # 💫 About Me:
-🔭I’m a Student studying in Sri Ramachandra Engineering and Technology(SRET)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱I’m currently pursuing a B.tech in Computer Science and Engineering (Cybersecurity & IoT)
+🔭I’m a Student studying in Sri Ramachandra Engineering and Technology(SRET)<br>👯 I’m looking for jobs in Cybersecurity and related fields in Computer Science
+<br>🤝 I’m looking for help with<br>🌱I’m currently pursuing a B.tech in Computer Science and Engineering (Cybersecurity & IoT)
 <br>⚡ Fun fact
 <br>📫 How to reach me: 2019akc@gmail.com..
 
