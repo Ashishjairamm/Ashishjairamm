@@ -18,7 +18,7 @@
 🔭I’m a Student studying in Sri Ramachandra Engineering and Technology(SRET)<br>👯 I’m looking for jobs in Cybersecurity and related fields in Computer Science
 <br>🤝 I’m looking for help with<br>🌱I’m currently pursuing a B.tech in Computer Science and Engineering (Cybersecurity & IoT)
 <br>⚡ Fun fact
-<br>📫 How to reach me: 2019akc@gmail.com..
+<br>📫 How to reach me: 2019akc@gmail.com.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_jairam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ aashish) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/a.aashish) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://play.google.com/store/apps/details?id=io.codepen.android.sourcecodes) 
