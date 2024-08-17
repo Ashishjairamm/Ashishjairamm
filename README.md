@@ -41,7 +41,7 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-![image](https://github.com/user-attachments/assets/d96e63fb-d20d-4ca4-bd84-992ef7d3e222)
+
 
 
 
