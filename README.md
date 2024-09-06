@@ -42,26 +42,6 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-<hr>
-<div align='center'>
-  <img src="MyGames.png" width="225"/>
-  <img src="Dracoide.gif" width="60">
-</div>
-<br>
-<div align='center'>
-  <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="180"/></a>
-</div>
-
-<div align='center'>
-  <a href="https://play.google.com/store/apps/dev?id=7388088919781492539"><img src="playstore.png" width="180"/></a>
-</div>
-
-<hr color="black">
-<p align='center'>
-  <img src="github-user-contribution.svg">
-</p>
-
-<br>
 <p align='center'>
   <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify/" alt="Spotify Now Playing" width="350"/>
 </p>
