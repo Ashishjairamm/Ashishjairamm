@@ -39,18 +39,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashishjairamm&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
 
-**interactive demo**
-
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
-
-[platane.github.io/snk](https://platane.github.io/snk)
-
-**local**
 
 <p align='center'>
   <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify/" alt="Spotify Now Playing" width="350"/>
@@ -62,3 +51,12 @@
 
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+**interactive demo**
+
+
+
