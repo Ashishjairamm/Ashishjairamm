@@ -20,14 +20,15 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v2
         with:
-          github_user_name: Ashishjairamm
+          github_user_name: Ashishjairamm  # Your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
           snake_color: 'blue'
 
-      # Convert SVG to GIF using an online tool or command line tool
-      - name: Install ImageMagick for SVG to GIF conversion
-        run: sudo apt-get install imagemagick
+      # Install ImageMagick for SVG to GIF conversion
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
 
+      # Convert SVG to GIF
       - name: Convert SVG to GIF
         run: convert dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif
 
