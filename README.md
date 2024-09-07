@@ -45,7 +45,6 @@
   <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify/" alt="Spotify Now Playing" width="350"/>
 </p>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
